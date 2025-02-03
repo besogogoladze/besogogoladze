@@ -12,7 +12,8 @@
 🔹 Interested in **Project Management & Teamwork**  
 
 ---
-
+<div align="center">
+  
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
@@ -47,6 +48,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)  
+</div>
 
 ---
 
