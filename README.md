@@ -69,5 +69,8 @@
 🔗 LinkedIn: [https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/](https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/)  
 🐙 GitHub:  [https://github.com/besogogoladze](https://github.com/besogogoladze)
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besogogoladze&layout=compact&theme=radical" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=besogogoladze&show_icons=true&theme=radical" width="48%" />
+</div>
 🌟 **Let's build something great together!** 🚀
