@@ -55,7 +55,7 @@
 ---
 
 ## 📌 Projects  
-🚀 **[Georgian wine](vinsgeorgiens.com)** - Ecommerce geogian wine website.   
+🚀 **[Georgian wine](https://vinsgeorgiens.com/)** - Ecommerce geogian wine website.   
 💡 More projects coming soon...  
 
 ---
