@@ -69,6 +69,7 @@
 📧 Email: gogoladzebeso8@gmail.com  
 📍 Location: Georgia  
 🔗 LinkedIn: [https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/](https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/)
+
 🐙 GitHub:  [https://github.com/besogogoladze](https://github.com/besogogoladze)
 ---
 
