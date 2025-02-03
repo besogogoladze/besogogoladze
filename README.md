@@ -59,8 +59,7 @@
 ---
 
 ## 📌 Projects  
-🚀 **[Transport Management System](#)** - Managing courses, clients, and chauffeurs.  
-🐾 **[Animal Care System](#)** - A platform for pet owners, veterinarians, and pet health tracking.  
+🚀 **[Georgian wine](vinsgeorgiens.com)** - Ecommerce geogian wine website.   
 💡 More projects coming soon...  
 
 ---
