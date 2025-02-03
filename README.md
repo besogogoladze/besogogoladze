@@ -57,7 +57,7 @@
 ## 📌 Projects  
 🚀 **[Georgian wine](https://vinsgeorgiens.com/)** - Ecommerce geogian wine website.   
 🚀 **[FedScore](https://besogogoladze.github.io/fedScore/)** - Three friends' rugby club scoreboard.   
-🚀 **[Timer](https://besogogoladze.github.io/timer/)** - Timer for trainings.
+🚀 **[Timer](https://besogogoladze.github.io/timer/)** - Timer for trainings.  
 🚀 **[School Trip](https://besogogoladze.github.io/trip/)** - Trip project.
 💡 More projects coming soon...  
 
@@ -66,8 +66,7 @@
 ## 📫 Contact Me  
 📧 Email: gogoladzebeso8@gmail.com  
 📍 Location: Georgia  
-🔗 LinkedIn: [https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/](https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/)
-
+🔗 LinkedIn: [https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/](https://www.linkedin.com/in/besiki-gogoladze-0703aa1b5/)  
 🐙 GitHub:  [https://github.com/besogogoladze](https://github.com/besogogoladze)
 ---
 
