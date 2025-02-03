@@ -56,6 +56,7 @@
 
 ## 📌 Projects  
 🚀 **[Georgian wine](https://vinsgeorgiens.com/)** - Ecommerce geogian wine website.   
+🚀 **[FedScore](https://besogogoladze.github.io/fedScore/)** - Three friends' rugby club scoreboard.   
 💡 More projects coming soon...  
 
 ---
