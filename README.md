@@ -6,7 +6,7 @@
 ---
 
 ## 📜 About Me  
-🎓 **IT Student @ IPI** (2nd Year)  
+🎓 **IT Student @ IPI** (3nd Year)  
 🔹 Focused on **Full Stack Development**  
 🔹 Strong foundation in **Web & Software Development**  
 🔹 Interested in **Project Management & Teamwork**  
