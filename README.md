@@ -59,7 +59,7 @@
 🚀 **[FedScore](https://besogogoladze.github.io/fedScore/)** - Three friends' rugby club scoreboard.   
 🚀 **[Timer](https://besogogoladze.github.io/timer/)** - Timer for trainings.  
 🚀 **[School Trip](https://besogogoladze.github.io/trip/)** - Trip project.  
-💡 More projects coming soon...  
+💡 Contact me for more projects.  
 
 ---
 
