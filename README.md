@@ -1,13 +1,13 @@
 # 💻 Besiki GOGOLADZE  
-**Student | Full Stack Developer | IT Enthusiast**  
+**Full Stack Developer | IT Enthusiast**  
 
 🚀 Passionate about modern web technologies, software development, and problem-solving. Currently studying IT and building innovative projects.  
 
 ---
 
 ## 📜 About Me  
-🎓 **IT Student @ IPI** (3nd Year)  
-🔹 Focused on **Full Stack Development**  
+🎓 **Graduated IPI Informatique Bac+3**  
+🔹 **Full Stack Developer**  
 🔹 Strong foundation in **Web & Software Development**  
 🔹 Interested in **Project Management & Teamwork**  
 
